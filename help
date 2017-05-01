@@ -1,0 +1,10 @@
+running gbnserver
+	python gbnserver.py file_name window size
+running gbnclient
+	python gbnclient.py ip
+	
+running swp server
+	python sw_server file_name
+running swp client
+	python sw_client ip
+	
